@@ -1,0 +1,8 @@
+{
+  "name": "Mi Token",
+  "description": "Un token simple con un suministro máximo de 400 millones y un burn rate del 2%.",
+  "image": "https://pbs.twimg.com/profile_images/1655969303378763779/MUjRlaTG_400x400.jpg",
+  "totalSupply": "400000000000000000000000000",
+  "decimals": 18,
+  "burnRate": 2
+}
